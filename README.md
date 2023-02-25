@@ -31,11 +31,15 @@ https://user-images.githubusercontent.com/126139089/221341673-a4c276dd-902e-42b8
 
 youtube video demo:
       https://youtu.be/TiuTiCbTxeo
- *Azure technologies we use :
+ 
+ 
+ Azure technologies we use:
  * static web apps
- * health bot
-*tech stack 
+ * health bot.
+
+
+tech stack:
 *HTML
 *CSS
-*BOOTSTRAP
+*BOOTSTRAP.
       
